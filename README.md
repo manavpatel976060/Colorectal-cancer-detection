@@ -32,8 +32,8 @@ Vgg16,Vgg19,Efficient Net
 Tableau
 
 ### Dataset Use
-ETIS-Larib-Polyp DB Dataset: https://link.springer.com/article/10.1007/s11548-
-013-0926-3/
+ETIS-Larib-Polyp DB Dataset: https://link.springer.com/article/10.1007/s11548-013-0926-3/
+
 KVASIR Dataset: https://dl.acm.org/doi/abs/10.1145/3083187.3083212
 
 ### Coding Language
